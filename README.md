@@ -7,7 +7,7 @@
 ##  🕵Sobre
 
 
-Sistema Backend que permite o gerenciamento completo dos shows **LAMA** (Labenu Musical Awards), evento fictício do Bootcamp da Labenu.
+Sistema Backend que permite o gerenciamento completo dos shows do **LAMA** (Labenu Musical Awards), evento fictício do Bootcamp da Labenu.
 
 ---
 ##  🧭Status do Projeto
