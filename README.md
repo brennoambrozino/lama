@@ -20,7 +20,8 @@ Sistema Backend que permite o gerenciamento completo dos shows do **LAMA** (Labe
 
 Este é um projeto de Back-end desenvolvido no bootcamp da Labenu, cujo o principal objetivo é estudar e compreender: A produção de um Banco de Dados e a criação de Api's.
 
-Tecnologias utilizadas: Jest, Node.JS, Knex, TypeScript, MySQL, SQL, Git e Github.
+Tecnologias utilizadas: REST, Api Restful, Jest, HTTP, NodeJS, Knex, TypeScript, MySQL, SQL, Git, GitHub.
+
 
 
 ## ☑️Requisitos de Funcionalidade
